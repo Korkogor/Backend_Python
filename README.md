@@ -5,14 +5,6 @@ at MTUCI (Moscow Technical University of Communications and Informatics).
 
 This repository grows as the course progresses.
 
-## Learning Goals
-
-- Learn Python fundamentals.
-- Practise solving programming tasks.
-- Build small applications.
-- Develop a habit of documenting code and using Git.
-
-
 ## Running the Code
 
 Python 3 is required.
